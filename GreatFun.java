@@ -6,5 +6,6 @@ public class GreatFun
      {
           System.out.print("Programming is ");
           System.out.println("great fun!");
+          //This is a comment from intelliJ
      }
 }
